@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Vagrant Halt
+Exec=bash /home/jeroen/test-lampstack/vagrant.sh halt /home/jeroen/test-lampstack
+Icon=vagrant_halt.png
+Type=Application
+Categories=Vagrant;Virtual
+Terminal=true
+Comment=Stops the vagrant machine
+Encoding=UTF-8

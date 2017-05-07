@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Vagrant Up
+Exec=bash /home/jeroen/test-lampstack/vagrant.sh up /home/jeroen/test-lampstack
+Icon=vagrant_up.png
+Type=Application
+Categories=Vagrant;Virtual
+Terminal=true
+Comment=Start the vagrant machine
+Encoding=UTF-8

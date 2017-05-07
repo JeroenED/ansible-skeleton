@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Vagrant Provision 
+Exec=bash /home/jeroen/test-lampstack/vagrant.sh provision /home/jeroen/test-lampstack
+Icon=vagrant_provision.png
+Type=Application
+Categories=Vagrant;Virtual
+Terminal=true
+Comment=Provisions the vagrant machine
+Encoding=UTF-8

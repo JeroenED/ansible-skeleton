@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Vagrant Ssh 
+Exec=bash /home/jeroen/test-lampstack/vagrant.sh ssh /home/jeroen/test-lampstack
+Icon=vagrant_ssh.png
+Type=Application
+Categories=Vagrant;Virtual
+Terminal=true
+Comment=Shell into the vagrant machine
+Encoding=UTF-8
